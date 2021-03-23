@@ -1,0 +1,23 @@
+{
+  "name": "jsfunctionsbeetroot",
+  "version": "1.0.0",
+  "description": "Third lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "sass --no-source-map scss/style.scss:css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andretan322/jsFunctionsBeetroot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andretan322/jsFunctionsBeetroot/issues"
+  },
+  "homepage": "https://github.com/Andretan322/jsFunctionsBeetroot#readme",
+  "dependencies": {
+    "sass": "^1.32.8"
+  }
+}
