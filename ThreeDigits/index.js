@@ -14,5 +14,5 @@ function askNumbers() {
 
 function getNumber() {
     askNumbers();
-    alert(arrNumbers.reduce((a, b) => a + b;)
+    alert(arrNumbers.reduce((a, b) => a + b));
 }
