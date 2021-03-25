@@ -16,7 +16,7 @@ const askParam = () => {
         } else continue;
     }
     return arr;
-}
+};
 
 function checkArr() {
     arr = askParam();
