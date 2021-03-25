@@ -14,7 +14,7 @@ function askNumbers() {
     return arrNumbers;
 }
 
-function getNumber() {
+function getString() {
     const arr = askNumbers();
     alert(arr.reduce((a, b) => a + b));
 }
